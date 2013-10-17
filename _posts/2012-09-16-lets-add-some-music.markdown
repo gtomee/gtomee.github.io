@@ -12,7 +12,7 @@ meta:
 ---
 Hello,
 
-<a href="http://gtomee.com/wp-content/uploads/2012/09/music.png"><img class="alignnone size-full wp-image-391 aligncenter" title="Eat That Snow Music button" src="http://gtomee.com/wp-content/uploads/2012/09/music.png" alt="" width="128" height="128" /></a>
+<a href="/img/old/music.png"><img class="alignnone size-full wp-image-391 aligncenter" title="Eat That Snow Music button" src="/img/old/music.png" alt="" width="128" height="128" /></a>
 
 If you've played Eat That Snow, you may have been a little annoyed by all of the creepy sounds (boiiiiing!), and as far as you've been playing you may have told yourself : "I feel like I miss something but I don't know what ..."
 

@@ -26,9 +26,10 @@ You will find a lot of new stuff :
 	<li><strong>Progressive difficulty</strong></li>
 </ul>
 <div>Here are some screenshots :</div>
-<div><a href="http://gtomee.com/wp-content/uploads/2011/12/screen_game_crash.jpg"><img class=" wp-image-72 aligncenter" title="screen_game_crash" src="http://gtomee.com/wp-content/uploads/2011/12/screen_game_crash.jpg" alt="" width="480" height="288" /></a></div>
-<div></div>
-<div></div>
-<div><a href="http://gtomee.com/wp-content/uploads/2011/12/screen_highscore_crash.jpg"><img class=" wp-image-73 aligncenter" title="screen_highscore_crash" src="http://gtomee.com/wp-content/uploads/2011/12/screen_highscore_crash.jpg" alt="" width="480" height="288" /></a></div>
+<div><a href="/img/old/screen_game_crash.jpg"><img class=" wp-image-72 aligncenter" title="screen_game_crash" src="/img/old/screen_game_crash.jpg" alt="" width="480" height="288" /></a></div>
+
+<div><a href="/img/old/screen_highscore_crash.jpg"><img class=" wp-image-73 aligncenter" title="screen_highscore_crash" src="/img/old/screen_highscore_crash.jpg" alt="" width="480" height="288" /></a></div>
+
 <div><a title="Crash 1.1" href="http://market.android.com/details?id=com.gtomee.crash">Download it</a> now !</div>
-<div><a href="http://gtomee.com/wp-content/uploads/2011/11/qr_crash.jpg"><img class="size-full wp-image-79 aligncenter" title="Crash QRCode" src="http://gtomee.com/wp-content/uploads/2011/11/qr_crash.jpg" alt="qr_crash" width="123" height="123" /></a></div>
+
+<div><a href="/img/old/qr_crash.jpg"><img class="size-full wp-image-79 aligncenter" title="Crash QRCode" src="/img/old/qr_crash.jpg" alt="qr_crash" width="123" height="123" /></a></div>

@@ -25,11 +25,11 @@ You just need to go to the <a title="Crash by Gtomee" href="http://market.androi
 We've decided to add an online dimension. You can now play and submit your <strong>highscores</strong>, and try to be the best among everybody !
 
 Here are some screenshots to show you the new feature :
-<p style="text-align: center;"><a href="http://gtomee.com/wp-content/uploads/2011/12/screen_crash_highscored.jpg"><img class="wp-image-109 aligncenter" title="screen_crash_highscored" src="http://gtomee.com/wp-content/uploads/2011/12/screen_crash_highscored.jpg" alt="" width="480" height="288" /></a></p>
+<p style="text-align: center;"><a href="/img/old/screen_crash_highscored.jpg"><img class="wp-image-109 aligncenter" title="screen_crash_highscored" src="/img/old/screen_crash_highscored.jpg" alt="" width="480" height="288" /></a></p>
 &nbsp;
-<p style="text-align: center;"><a href="http://gtomee.com/wp-content/uploads/2011/12/screen_crash_home_2.0.jpg"><img class=" wp-image-108 aligncenter" title="screen_crash_home_2.0" src="http://gtomee.com/wp-content/uploads/2011/12/screen_crash_home_2.0.jpg" alt="" width="480" height="288" /></a></p>
+<p style="text-align: center;"><a href="/img/old/screen_crash_home_2.0.jpg"><img class=" wp-image-108 aligncenter" title="screen_crash_home_2.0" src="/img/old/screen_crash_home_2.0.jpg" alt="" width="480" height="288" /></a></p>
 &nbsp;
-<p style="text-align: center;"><a href="http://gtomee.com/wp-content/uploads/2011/12/screen_crash_highscores_screen.jpg"><img class=" wp-image-110 aligncenter" title="screen_crash_highscores_screen" src="http://gtomee.com/wp-content/uploads/2011/12/screen_crash_highscores_screen.jpg" alt="" width="480" height="288" /></a></p>
+<p style="text-align: center;"><a href="/img/old/screen_crash_highscores_screen.jpg"><img class=" wp-image-110 aligncenter" title="screen_crash_highscores_screen" src="/img/old/screen_crash_highscores_screen.jpg" alt="" width="480" height="288" /></a></p>
 &nbsp;
 
 We hope you'll enjoy !

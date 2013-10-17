@@ -41,9 +41,9 @@ The longer you press, the higher you jump ! A short press will let you make a sm
 
 <strong>Screenshots</strong>
 
-<p style="text-align: center;"><a href="http://gtomee.com/wp-content/uploads/2012/02/accueil.png"><img class="alignnone size-medium wp-image-215" title="accueil" src="http://gtomee.com/wp-content/uploads/2012/02/accueil-300x180.png" alt="" width="300" height="180" /></a></p>
-<p style="text-align: center;"><a href="http://gtomee.com/wp-content/uploads/2012/02/screen1.png"><img class="alignnone size-medium wp-image-216" title="screen1" src="http://gtomee.com/wp-content/uploads/2012/02/screen1-300x180.png" alt="" width="300" height="180" /></a></p>
-<p style="text-align: center;"><a href="http://gtomee.com/wp-content/uploads/2012/02/screen2.png"><img class="alignnone size-medium wp-image-217" title="screen2" src="http://gtomee.com/wp-content/uploads/2012/02/screen2-300x180.png" alt="" width="300" height="180" /></a></p>
+<p style="text-align: center;"><a href="/img/old/accueil.png"><img class="alignnone size-medium wp-image-215" title="accueil" src="/img/old/accueil.png" alt="" width="300" height="180" /></a></p>
+<p style="text-align: center;"><a href="/img/old/screen1.png"><img class="alignnone size-medium wp-image-216" title="screen1" src="/img/old/screen1.png" alt="" width="300" height="180" /></a></p>
+<p style="text-align: center;"><a href="/img/old/screen2.png"><img class="alignnone size-medium wp-image-217" title="screen2" src="/img/old/screen2.png" alt="" width="300" height="180" /></a></p>
 
 <strong>Video</strong>
 
@@ -51,7 +51,7 @@ The longer you press, the higher you jump ! A short press will let you make a sm
 
 <strong>QR Code</strong>
 
-<p style="text-align: center;"><a href="http://gtomee.com/wp-content/uploads/2012/03/small_qr_eat_that_snow.png"><img class="alignnone size-full wp-image-230" title="small_qr_eat_that_snow" src="http://gtomee.com/wp-content/uploads/2012/03/small_qr_eat_that_snow.png" alt="" width="150" height="150" /></a></p>
+<p style="text-align: center;"><a href="/img/old/small_qr_eat_that_snow.png"><img class="alignnone size-full wp-image-230" title="small_qr_eat_that_snow" src="/img/old/small_qr_eat_that_snow.png" alt="" width="150" height="150" /></a></p>
 Android Market link : <a href="https://market.android.com/details?id=com.gtomee.eatthatsnow">https://market.android.com/details?id=com.gtomee.eatthatsnow</a>
 
 Don't hesitate to give us feedback in the comments !

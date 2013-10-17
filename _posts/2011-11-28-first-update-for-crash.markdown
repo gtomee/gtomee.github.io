@@ -24,6 +24,6 @@ Of course, the game is still free, so be ready to download it from <a title="Cra
 
 Exclusively on gtomee.com, here is the new welcome screen of Crash :
 
-<a href="http://gtomee.com/wp-content/uploads/2011/11/screen_home_crash.jpg"><img class="alignnone size-medium wp-image-48" title="screen_home_crash" src="http://gtomee.com/wp-content/uploads/2011/11/screen_home_crash-300x180.jpg" alt="" width="300" height="180" /></a>
+<a href="/img/old/screen_home_crash.jpg"><img class="alignnone size-medium wp-image-48" title="screen_home_crash" src="/img/old/screen_home_crash.jpg" alt="" width="300" height="180" /></a>
 
 Stay tuned !

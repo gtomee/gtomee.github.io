@@ -21,7 +21,7 @@ It is created in Javascript with <em>Three.js</em>, so you need a WebGL compati
 
 Here is a screenshot :
 
-<a href="http://gtomee.com/wp-content/uploads/2012/08/eat_that_snow_3D_levels-e1345928452940.png"><img class="size-large wp-image-367 aligncenter" title="eat_that_snow_3D_levels" src="http://gtomee.com/wp-content/uploads/2012/08/eat_that_snow_3D_levels-1024x576.png" alt="" width="550" height="309" /></a>
+<a href="/img/old/eat_that_snow_3D_levels-e1345928452940.png"><img class="size-large wp-image-367 aligncenter" title="eat_that_snow_3D_levels" src="/img/old/eat_that_snow_3D_levels.png" alt="" width="550" height="309" /></a>
 
 Code is on <a href="https://github.com/gtomee/EatThatSnow-3D-levels">github</a>.
 
