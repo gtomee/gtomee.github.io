@@ -1,0 +1,1060 @@
+<level id="24" posInitX="11" posInitY="13" size="350" bg="mountains" vieMax="200">
+    <item x="15" y="10" num="1" />
+    <item x="18" y="6" num="1" />
+    <item x="43" y="1" num="1" />
+    <item x="47" y="1" num="1" />
+    <item x="51" y="11" num="1" />
+    <item x="52" y="11" num="1" />
+    <item x="62" y="13" num="1" />
+    <item x="63" y="13" num="1" />
+    <item x="64" y="13" num="1" />
+    <item x="90" y="8" num="1" />
+    <item x="91" y="8" num="1" />
+    <item x="92" y="8" num="1" />
+    <item x="107" y="9" num="1" />
+    <item x="107" y="10" num="1" />
+    <item x="119" y="13" num="1" />
+    <item x="120" y="5" num="1" />
+    <item x="151" y="12" num="1" />
+    <item x="152" y="12" num="1" />
+    <item x="152" y="13" num="1" />
+    <item x="152" y="4" num="1" />
+    <item x="153" y="12" num="1" />
+    <item x="153" y="4" num="1" />
+    <item x="154" y="4" num="1" />
+    <item x="165" y="2" num="1" />
+    <item x="166" y="3" num="1" />
+    <item x="166" y="2" num="1" />
+    <item x="166" y="5" num="1" />
+    <item x="167" y="2" num="1" />
+    <item x="173" y="7" num="1" />
+    <item x="179" y="9" num="1" />
+    <item x="183" y="11" num="1" />
+    <item x="189" y="11" num="1" />
+    <item x="190" y="11" num="1" />
+    <item x="200" y="11" num="1" />
+    <item x="201" y="11" num="1" />
+    <item x="212" y="11" num="1" />
+    <item x="213" y="11" num="1" />
+    <item x="227" y="3" num="1" />
+    <item x="228" y="11" num="1" />
+    <item x="229" y="11" num="1" />
+    <item x="229" y="12" num="1" />
+    <item x="230" y="11" num="1" />
+    <item x="231" y="3" num="1" />
+    <item x="240" y="1" num="1" />
+    <item x="241" y="1" num="1" />
+    <item x="247" y="9" num="1" />
+    <item x="247" y="1" num="1" />
+    <item x="248" y="1" num="1" />
+    <item x="250" y="10" num="1" />
+    <item x="253" y="11" num="1" />
+    <item x="254" y="1" num="1" />
+    <item x="255" y="1" num="1" />
+    <item x="256" y="12" num="1" />
+    <item x="261" y="1" num="1" />
+    <item x="262" y="1" num="1" />
+    <item x="284" y="7" num="1" />
+    <item x="284" y="8" num="1" />
+    <item x="285" y="7" num="1" />
+    <item x="285" y="8" num="1" />
+    <item x="297" y="9" num="1" />
+    <item x="298" y="9" num="1" />
+    <item x="299" y="9" num="1" />
+    <item x="300" y="9" num="1" />
+    <item x="309" y="13" num="1" />
+    <item x="310" y="13" num="1" />
+    <item x="311" y="13" num="1" />
+    <item x="312" y="13" num="1" />
+    <item x="313" y="13" num="1" />
+    <item x="341" y="4" num="1" />
+    <item x="343" y="3" num="1" />
+    <item x="345" y="2" num="1" />
+    <item x="90" y="5" num="2" />
+    <item x="91" y="5" num="2" />
+    <item x="92" y="5" num="2" />
+    <item x="133" y="4" num="2" />
+    <item x="133" y="6" num="2" />
+    <item x="133" y="5" num="2" />
+    <item x="133" y="7" num="2" />
+    <item x="146" y="12" num="2" />
+    <item x="198" y="7" num="2" />
+    <item x="199" y="7" num="2" />
+    <item x="210" y="7" num="2" />
+    <item x="211" y="7" num="2" />
+    <item x="229" y="2" num="2" />
+    <item x="272" y="1" num="2" />
+    <item x="274" y="10" num="2" />
+    <item x="310" y="2" num="2" />
+    <item x="310" y="1" num="2" />
+    <item x="311" y="2" num="2" />
+    <item x="311" y="1" num="2" />
+    <item x="312" y="2" num="2" />
+    <item x="312" y="1" num="2" />
+    <item x="330" y="7" num="2" />
+    <item x="345" y="9" num="2" />
+    <item x="345" y="7" num="2" />
+    <item x="345" y="8" num="2" />
+    <item x="345" y="10" num="2" />
+    <item x="346" y="9" num="2" />
+    <item x="346" y="7" num="2" />
+    <item x="346" y="10" num="2" />
+    <item x="346" y="8" num="2" />
+    <item x="347" y="8" num="2" />
+    <item x="347" y="7" num="2" />
+    <item x="347" y="9" num="2" />
+    <item x="347" y="10" num="2" />
+    <item x="348" y="10" num="2" />
+    <item x="348" y="8" num="2" />
+    <item x="348" y="7" num="2" />
+    <item x="348" y="9" num="2" />
+    <item x="349" y="7" num="2" />
+    <item x="349" y="9" num="2" />
+    <item x="349" y="8" num="2" />
+    <item x="349" y="10" num="2" />
+    <item x="63" y="14" num="3" />
+    <item x="107" y="5" num="3" />
+    <item x="153" y="5" num="3" />
+    <item x="262" y="2" num="3" />
+    <item x="311" y="7" num="3" />
+    <item x="348" y="1" num="6" />
+    <bloc x="0" y="7" type="solid" num="9" />
+    <bloc x="1" y="7" type="solid" num="9" />
+    <bloc x="2" y="7" type="solid" num="9" />
+    <bloc x="3" y="12" type="solid" num="9" />
+    <bloc x="4" y="12" type="solid" num="9" />
+    <bloc x="5" y="12" type="solid" num="9" />
+    <bloc x="6" y="12" type="solid" num="9" />
+    <bloc x="7" y="12" type="solid" num="9" />
+    <bloc x="8" y="12" type="solid" num="9" />
+    <bloc x="9" y="12" type="solid" num="9" />
+    <bloc x="10" y="12" type="solid" num="9" />
+    <bloc x="11" y="12" type="solid" num="9" />
+    <bloc x="12" y="12" type="solid" num="9" />
+    <bloc x="18" y="1" type="solid" num="9" />
+    <bloc x="19" y="1" type="solid" num="9" />
+    <bloc x="20" y="1" type="solid" num="9" />
+    <bloc x="21" y="1" type="solid" num="9" />
+    <bloc x="22" y="1" type="solid" num="9" />
+    <bloc x="23" y="1" type="solid" num="9" />
+    <bloc x="24" y="1" type="solid" num="9" />
+    <bloc x="25" y="1" type="solid" num="9" />
+    <bloc x="26" y="1" type="solid" num="9" />
+    <bloc x="39" y="0" type="solid" num="9" />
+    <bloc x="40" y="0" type="solid" num="9" />
+    <bloc x="41" y="0" type="solid" num="9" />
+    <bloc x="42" y="0" type="solid" num="9" />
+    <bloc x="43" y="0" type="solid" num="9" />
+    <bloc x="44" y="0" type="solid" num="9" />
+    <bloc x="45" y="0" type="solid" num="9" />
+    <bloc x="46" y="0" type="solid" num="9" />
+    <bloc x="47" y="0" type="solid" num="9" />
+    <bloc x="48" y="0" type="solid" num="9" />
+    <bloc x="49" y="0" type="solid" num="9" />
+    <bloc x="50" y="0" type="solid" num="9" />
+    <bloc x="59" y="12" type="solid" num="9" />
+    <bloc x="60" y="12" type="solid" num="9" />
+    <bloc x="61" y="12" type="solid" num="9" />
+    <bloc x="62" y="12" type="solid" num="9" />
+    <bloc x="63" y="12" type="solid" num="9" />
+    <bloc x="64" y="12" type="solid" num="9" />
+    <bloc x="65" y="12" type="solid" num="9" />
+    <bloc x="66" y="12" type="solid" num="9" />
+    <bloc x="101" y="0" type="solid" num="9" />
+    <bloc x="102" y="0" type="solid" num="9" />
+    <bloc x="103" y="0" type="solid" num="9" />
+    <bloc x="104" y="0" type="solid" num="9" />
+    <bloc x="105" y="0" type="solid" num="9" />
+    <bloc x="106" y="3" type="solid" num="9" />
+    <bloc x="107" y="3" type="solid" num="9" />
+    <bloc x="108" y="3" type="solid" num="9" />
+    <bloc x="109" y="0" type="solid" num="9" />
+    <bloc x="110" y="0" type="solid" num="9" />
+    <bloc x="111" y="0" type="solid" num="9" />
+    <bloc x="112" y="0" type="solid" num="9" />
+    <bloc x="113" y="0" type="solid" num="9" />
+    <bloc x="125" y="9" type="solid" num="9" />
+    <bloc x="126" y="9" type="solid" num="9" />
+    <bloc x="127" y="10" type="solid" num="9" />
+    <bloc x="127" y="3" type="solid" num="9" />
+    <bloc x="128" y="11" type="solid" num="9" />
+    <bloc x="128" y="3" type="solid" num="9" />
+    <bloc x="129" y="3" type="solid" num="9" />
+    <bloc x="129" y="11" type="solid" num="9" />
+    <bloc x="130" y="11" type="solid" num="9" />
+    <bloc x="130" y="3" type="solid" num="9" />
+    <bloc x="131" y="3" type="solid" num="9" />
+    <bloc x="131" y="11" type="solid" num="9" />
+    <bloc x="132" y="11" type="solid" num="9" />
+    <bloc x="132" y="3" type="solid" num="9" />
+    <bloc x="133" y="3" type="solid" num="9" />
+    <bloc x="133" y="11" type="solid" num="9" />
+    <bloc x="134" y="11" type="solid" num="9" />
+    <bloc x="139" y="3" type="solid" num="9" />
+    <bloc x="140" y="3" type="solid" num="9" />
+    <bloc x="141" y="3" type="solid" num="9" />
+    <bloc x="142" y="11" type="solid" num="9" />
+    <bloc x="142" y="3" type="solid" num="9" />
+    <bloc x="143" y="3" type="solid" num="9" />
+    <bloc x="143" y="11" type="solid" num="9" />
+    <bloc x="144" y="11" type="solid" num="9" />
+    <bloc x="144" y="3" type="solid" num="9" />
+    <bloc x="145" y="11" type="solid" num="9" />
+    <bloc x="145" y="3" type="solid" num="9" />
+    <bloc x="146" y="3" type="solid" num="9" />
+    <bloc x="146" y="11" type="solid" num="9" />
+    <bloc x="147" y="3" type="solid" num="9" />
+    <bloc x="147" y="11" type="solid" num="9" />
+    <bloc x="148" y="3" type="solid" num="9" />
+    <bloc x="148" y="11" type="solid" num="9" />
+    <bloc x="149" y="11" type="solid" num="9" />
+    <bloc x="149" y="3" type="solid" num="9" />
+    <bloc x="150" y="11" type="solid" num="9" />
+    <bloc x="150" y="3" type="solid" num="9" />
+    <bloc x="151" y="3" type="solid" num="9" />
+    <bloc x="151" y="11" type="solid" num="9" />
+    <bloc x="152" y="3" type="solid" num="9" />
+    <bloc x="152" y="11" type="solid" num="9" />
+    <bloc x="153" y="11" type="solid" num="9" />
+    <bloc x="153" y="3" type="solid" num="9" />
+    <bloc x="154" y="3" type="solid" num="9" />
+    <bloc x="154" y="11" type="solid" num="9" />
+    <bloc x="155" y="11" type="solid" num="9" />
+    <bloc x="155" y="3" type="solid" num="9" />
+    <bloc x="156" y="3" type="solid" num="9" />
+    <bloc x="156" y="11" type="solid" num="9" />
+    <bloc x="189" y="10" type="solid" num="9" />
+    <bloc x="190" y="10" type="solid" num="9" />
+    <bloc x="200" y="0" type="solid" num="9" />
+    <bloc x="200" y="10" type="solid" num="9" />
+    <bloc x="201" y="10" type="solid" num="9" />
+    <bloc x="212" y="0" type="solid" num="9" />
+    <bloc x="212" y="10" type="solid" num="9" />
+    <bloc x="213" y="10" type="solid" num="9" />
+    <bloc x="223" y="1" type="solid" num="9" />
+    <bloc x="224" y="1" type="solid" num="9" />
+    <bloc x="225" y="1" type="solid" num="9" />
+    <bloc x="226" y="1" type="solid" num="9" />
+    <bloc x="227" y="1" type="solid" num="9" />
+    <bloc x="228" y="1" type="solid" num="9" />
+    <bloc x="229" y="1" type="solid" num="9" />
+    <bloc x="230" y="1" type="solid" num="9" />
+    <bloc x="231" y="1" type="solid" num="9" />
+    <bloc x="232" y="1" type="solid" num="9" />
+    <bloc x="233" y="1" type="solid" num="9" />
+    <bloc x="234" y="1" type="solid" num="9" />
+    <bloc x="240" y="0" type="solid" num="9" />
+    <bloc x="241" y="0" type="solid" num="9" />
+    <bloc x="246" y="8" type="solid" num="9" />
+    <bloc x="247" y="8" type="solid" num="9" />
+    <bloc x="247" y="0" type="solid" num="9" />
+    <bloc x="248" y="8" type="solid" num="9" />
+    <bloc x="248" y="0" type="solid" num="9" />
+    <bloc x="254" y="0" type="solid" num="9" />
+    <bloc x="255" y="0" type="solid" num="9" />
+    <bloc x="261" y="0" type="solid" num="9" />
+    <bloc x="262" y="0" type="solid" num="9" />
+    <bloc x="267" y="0" type="solid" num="9" />
+    <bloc x="268" y="0" type="solid" num="9" />
+    <bloc x="269" y="0" type="solid" num="9" />
+    <bloc x="270" y="0" type="solid" num="9" />
+    <bloc x="271" y="0" type="solid" num="9" />
+    <bloc x="272" y="0" type="solid" num="9" />
+    <bloc x="273" y="0" type="solid" num="9" />
+    <bloc x="274" y="0" type="solid" num="9" />
+    <bloc x="275" y="0" type="solid" num="9" />
+    <bloc x="276" y="0" type="solid" num="9" />
+    <bloc x="277" y="0" type="solid" num="9" />
+    <bloc x="278" y="0" type="solid" num="9" />
+    <bloc x="279" y="0" type="solid" num="9" />
+    <bloc x="280" y="0" type="solid" num="9" />
+    <bloc x="281" y="0" type="solid" num="9" />
+    <bloc x="282" y="0" type="solid" num="9" />
+    <bloc x="283" y="0" type="solid" num="9" />
+    <bloc x="283" y="6" type="solid" num="9" />
+    <bloc x="284" y="0" type="solid" num="9" />
+    <bloc x="284" y="6" type="solid" num="9" />
+    <bloc x="285" y="0" type="solid" num="9" />
+    <bloc x="285" y="6" type="solid" num="9" />
+    <bloc x="286" y="0" type="solid" num="9" />
+    <bloc x="286" y="6" type="solid" num="9" />
+    <bloc x="287" y="0" type="solid" num="9" />
+    <bloc x="292" y="9" type="solid" num="9" />
+    <bloc x="310" y="0" type="solid" num="9" />
+    <bloc x="311" y="0" type="solid" num="9" />
+    <bloc x="312" y="0" type="solid" num="9" />
+    <bloc x="323" y="4" type="solid" num="9" />
+    <bloc x="324" y="4" type="solid" num="9" />
+    <bloc x="325" y="6" type="solid" num="9" />
+    <bloc x="326" y="6" type="solid" num="9" />
+    <bloc x="327" y="6" type="solid" num="9" />
+    <bloc x="328" y="6" type="solid" num="9" />
+    <bloc x="329" y="6" type="solid" num="9" />
+    <bloc x="330" y="6" type="solid" num="9" />
+    <bloc x="331" y="6" type="solid" num="9" />
+    <bloc x="332" y="6" type="solid" num="9" />
+    <bloc x="333" y="6" type="solid" num="9" />
+    <bloc x="334" y="6" type="solid" num="9" />
+    <bloc x="335" y="6" type="solid" num="9" />
+    <bloc x="336" y="6" type="solid" num="9" />
+    <bloc x="337" y="6" type="solid" num="9" />
+    <bloc x="338" y="4" type="solid" num="9" />
+    <bloc x="339" y="3" type="solid" num="9" />
+    <bloc x="340" y="3" type="solid" num="9" />
+    <bloc x="341" y="3" type="solid" num="9" />
+    <bloc x="342" y="2" type="solid" num="9" />
+    <bloc x="343" y="2" type="solid" num="9" />
+    <bloc x="344" y="6" type="solid" num="9" />
+    <bloc x="344" y="1" type="solid" num="9" />
+    <bloc x="345" y="6" type="solid" num="9" />
+    <bloc x="345" y="1" type="solid" num="9" />
+    <bloc x="346" y="6" type="solid" num="9" />
+    <bloc x="346" y="0" type="solid" num="9" />
+    <bloc x="347" y="6" type="solid" num="9" />
+    <bloc x="347" y="0" type="solid" num="9" />
+    <bloc x="348" y="6" type="solid" num="9" />
+    <bloc x="348" y="0" type="solid" num="9" />
+    <bloc x="349" y="6" type="solid" num="9" />
+    <bloc x="349" y="0" type="solid" num="9" />
+    <bloc x="0" y="5" type="solid" num="10" />
+    <bloc x="0" y="4" type="solid" num="10" />
+    <bloc x="0" y="6" type="solid" num="10" />
+    <bloc x="0" y="1" type="solid" num="10" />
+    <bloc x="0" y="2" type="solid" num="10" />
+    <bloc x="0" y="0" type="solid" num="10" />
+    <bloc x="0" y="3" type="solid" num="10" />
+    <bloc x="1" y="4" type="solid" num="10" />
+    <bloc x="1" y="1" type="solid" num="10" />
+    <bloc x="1" y="0" type="solid" num="10" />
+    <bloc x="1" y="2" type="solid" num="10" />
+    <bloc x="1" y="3" type="solid" num="10" />
+    <bloc x="1" y="5" type="solid" num="10" />
+    <bloc x="1" y="6" type="solid" num="10" />
+    <bloc x="2" y="4" type="solid" num="10" />
+    <bloc x="2" y="1" type="solid" num="10" />
+    <bloc x="2" y="2" type="solid" num="10" />
+    <bloc x="2" y="0" type="solid" num="10" />
+    <bloc x="2" y="5" type="solid" num="10" />
+    <bloc x="2" y="3" type="solid" num="10" />
+    <bloc x="2" y="6" type="solid" num="10" />
+    <bloc x="3" y="8" type="solid" num="10" />
+    <bloc x="3" y="6" type="solid" num="10" />
+    <bloc x="3" y="11" type="solid" num="10" />
+    <bloc x="3" y="5" type="solid" num="10" />
+    <bloc x="3" y="0" type="solid" num="10" />
+    <bloc x="3" y="10" type="solid" num="10" />
+    <bloc x="3" y="1" type="solid" num="10" />
+    <bloc x="3" y="9" type="solid" num="10" />
+    <bloc x="3" y="4" type="solid" num="10" />
+    <bloc x="3" y="2" type="solid" num="10" />
+    <bloc x="3" y="3" type="solid" num="10" />
+    <bloc x="3" y="7" type="solid" num="10" />
+    <bloc x="4" y="9" type="solid" num="10" />
+    <bloc x="4" y="3" type="solid" num="10" />
+    <bloc x="4" y="6" type="solid" num="10" />
+    <bloc x="4" y="1" type="solid" num="10" />
+    <bloc x="4" y="11" type="solid" num="10" />
+    <bloc x="4" y="10" type="solid" num="10" />
+    <bloc x="4" y="7" type="solid" num="10" />
+    <bloc x="4" y="2" type="solid" num="10" />
+    <bloc x="4" y="0" type="solid" num="10" />
+    <bloc x="4" y="5" type="solid" num="10" />
+    <bloc x="4" y="4" type="solid" num="10" />
+    <bloc x="4" y="8" type="solid" num="10" />
+    <bloc x="5" y="6" type="solid" num="10" />
+    <bloc x="5" y="9" type="solid" num="10" />
+    <bloc x="5" y="7" type="solid" num="10" />
+    <bloc x="5" y="0" type="solid" num="10" />
+    <bloc x="5" y="3" type="solid" num="10" />
+    <bloc x="5" y="1" type="solid" num="10" />
+    <bloc x="5" y="2" type="solid" num="10" />
+    <bloc x="5" y="10" type="solid" num="10" />
+    <bloc x="5" y="8" type="solid" num="10" />
+    <bloc x="5" y="4" type="solid" num="10" />
+    <bloc x="5" y="5" type="solid" num="10" />
+    <bloc x="5" y="11" type="solid" num="10" />
+    <bloc x="6" y="9" type="solid" num="10" />
+    <bloc x="6" y="7" type="solid" num="10" />
+    <bloc x="6" y="10" type="solid" num="10" />
+    <bloc x="6" y="5" type="solid" num="10" />
+    <bloc x="6" y="6" type="solid" num="10" />
+    <bloc x="6" y="4" type="solid" num="10" />
+    <bloc x="6" y="11" type="solid" num="10" />
+    <bloc x="6" y="2" type="solid" num="10" />
+    <bloc x="6" y="0" type="solid" num="10" />
+    <bloc x="6" y="8" type="solid" num="10" />
+    <bloc x="6" y="3" type="solid" num="10" />
+    <bloc x="6" y="1" type="solid" num="10" />
+    <bloc x="7" y="9" type="solid" num="10" />
+    <bloc x="7" y="1" type="solid" num="10" />
+    <bloc x="7" y="3" type="solid" num="10" />
+    <bloc x="7" y="2" type="solid" num="10" />
+    <bloc x="7" y="7" type="solid" num="10" />
+    <bloc x="7" y="10" type="solid" num="10" />
+    <bloc x="7" y="6" type="solid" num="10" />
+    <bloc x="7" y="4" type="solid" num="10" />
+    <bloc x="7" y="5" type="solid" num="10" />
+    <bloc x="7" y="11" type="solid" num="10" />
+    <bloc x="7" y="0" type="solid" num="10" />
+    <bloc x="7" y="8" type="solid" num="10" />
+    <bloc x="8" y="4" type="solid" num="10" />
+    <bloc x="8" y="1" type="solid" num="10" />
+    <bloc x="8" y="3" type="solid" num="10" />
+    <bloc x="8" y="2" type="solid" num="10" />
+    <bloc x="8" y="10" type="solid" num="10" />
+    <bloc x="8" y="9" type="solid" num="10" />
+    <bloc x="8" y="11" type="solid" num="10" />
+    <bloc x="8" y="5" type="solid" num="10" />
+    <bloc x="8" y="8" type="solid" num="10" />
+    <bloc x="8" y="0" type="solid" num="10" />
+    <bloc x="8" y="6" type="solid" num="10" />
+    <bloc x="8" y="7" type="solid" num="10" />
+    <bloc x="9" y="5" type="solid" num="10" />
+    <bloc x="9" y="4" type="solid" num="10" />
+    <bloc x="9" y="0" type="solid" num="10" />
+    <bloc x="9" y="8" type="solid" num="10" />
+    <bloc x="9" y="11" type="solid" num="10" />
+    <bloc x="9" y="6" type="solid" num="10" />
+    <bloc x="9" y="9" type="solid" num="10" />
+    <bloc x="9" y="10" type="solid" num="10" />
+    <bloc x="9" y="2" type="solid" num="10" />
+    <bloc x="9" y="1" type="solid" num="10" />
+    <bloc x="9" y="3" type="solid" num="10" />
+    <bloc x="9" y="7" type="solid" num="10" />
+    <bloc x="10" y="8" type="solid" num="10" />
+    <bloc x="10" y="9" type="solid" num="10" />
+    <bloc x="10" y="10" type="solid" num="10" />
+    <bloc x="10" y="7" type="solid" num="10" />
+    <bloc x="10" y="2" type="solid" num="10" />
+    <bloc x="10" y="0" type="solid" num="10" />
+    <bloc x="10" y="1" type="solid" num="10" />
+    <bloc x="10" y="11" type="solid" num="10" />
+    <bloc x="10" y="3" type="solid" num="10" />
+    <bloc x="10" y="6" type="solid" num="10" />
+    <bloc x="10" y="5" type="solid" num="10" />
+    <bloc x="10" y="4" type="solid" num="10" />
+    <bloc x="11" y="10" type="solid" num="10" />
+    <bloc x="11" y="1" type="solid" num="10" />
+    <bloc x="11" y="7" type="solid" num="10" />
+    <bloc x="11" y="3" type="solid" num="10" />
+    <bloc x="11" y="0" type="solid" num="10" />
+    <bloc x="11" y="8" type="solid" num="10" />
+    <bloc x="11" y="5" type="solid" num="10" />
+    <bloc x="11" y="2" type="solid" num="10" />
+    <bloc x="11" y="9" type="solid" num="10" />
+    <bloc x="11" y="11" type="solid" num="10" />
+    <bloc x="11" y="6" type="solid" num="10" />
+    <bloc x="11" y="4" type="solid" num="10" />
+    <bloc x="12" y="7" type="solid" num="10" />
+    <bloc x="12" y="6" type="solid" num="10" />
+    <bloc x="12" y="8" type="solid" num="10" />
+    <bloc x="12" y="3" type="solid" num="10" />
+    <bloc x="12" y="0" type="solid" num="10" />
+    <bloc x="12" y="4" type="solid" num="10" />
+    <bloc x="12" y="9" type="solid" num="10" />
+    <bloc x="12" y="2" type="solid" num="10" />
+    <bloc x="12" y="11" type="solid" num="10" />
+    <bloc x="12" y="10" type="solid" num="10" />
+    <bloc x="12" y="1" type="solid" num="10" />
+    <bloc x="12" y="5" type="solid" num="10" />
+    <bloc x="18" y="0" type="solid" num="10" />
+    <bloc x="19" y="0" type="solid" num="10" />
+    <bloc x="20" y="0" type="solid" num="10" />
+    <bloc x="21" y="0" type="solid" num="10" />
+    <bloc x="22" y="0" type="solid" num="10" />
+    <bloc x="23" y="0" type="solid" num="10" />
+    <bloc x="24" y="0" type="solid" num="10" />
+    <bloc x="25" y="0" type="solid" num="10" />
+    <bloc x="26" y="0" type="solid" num="10" />
+    <bloc x="59" y="11" type="solid" num="10" />
+    <bloc x="59" y="10" type="solid" num="10" />
+    <bloc x="60" y="11" type="solid" num="10" />
+    <bloc x="60" y="8" type="solid" num="10" />
+    <bloc x="60" y="9" type="solid" num="10" />
+    <bloc x="60" y="10" type="solid" num="10" />
+    <bloc x="61" y="10" type="solid" num="10" />
+    <bloc x="61" y="11" type="solid" num="10" />
+    <bloc x="61" y="8" type="solid" num="10" />
+    <bloc x="61" y="9" type="solid" num="10" />
+    <bloc x="62" y="10" type="solid" num="10" />
+    <bloc x="62" y="9" type="solid" num="10" />
+    <bloc x="62" y="8" type="solid" num="10" />
+    <bloc x="62" y="11" type="solid" num="10" />
+    <bloc x="63" y="9" type="solid" num="10" />
+    <bloc x="63" y="10" type="solid" num="10" />
+    <bloc x="63" y="11" type="solid" num="10" />
+    <bloc x="63" y="8" type="solid" num="10" />
+    <bloc x="64" y="8" type="solid" num="10" />
+    <bloc x="64" y="9" type="solid" num="10" />
+    <bloc x="64" y="10" type="solid" num="10" />
+    <bloc x="64" y="11" type="solid" num="10" />
+    <bloc x="65" y="11" type="solid" num="10" />
+    <bloc x="65" y="8" type="solid" num="10" />
+    <bloc x="65" y="10" type="solid" num="10" />
+    <bloc x="65" y="9" type="solid" num="10" />
+    <bloc x="66" y="8" type="solid" num="10" />
+    <bloc x="66" y="10" type="solid" num="10" />
+    <bloc x="66" y="9" type="solid" num="10" />
+    <bloc x="66" y="11" type="solid" num="10" />
+    <bloc x="86" y="14" type="solid" num="10" />
+    <bloc x="87" y="13" type="solid" num="10" />
+    <bloc x="87" y="14" type="solid" num="10" />
+    <bloc x="88" y="13" type="solid" num="10" />
+    <bloc x="88" y="14" type="solid" num="10" />
+    <bloc x="89" y="13" type="solid" num="10" />
+    <bloc x="89" y="14" type="solid" num="10" />
+    <bloc x="90" y="14" type="solid" num="10" />
+    <bloc x="90" y="13" type="solid" num="10" />
+    <bloc x="91" y="14" type="solid" num="10" />
+    <bloc x="91" y="13" type="solid" num="10" />
+    <bloc x="92" y="14" type="solid" num="10" />
+    <bloc x="92" y="13" type="solid" num="10" />
+    <bloc x="93" y="14" type="solid" num="10" />
+    <bloc x="93" y="13" type="solid" num="10" />
+    <bloc x="94" y="13" type="solid" num="10" />
+    <bloc x="94" y="14" type="solid" num="10" />
+    <bloc x="95" y="14" type="solid" num="10" />
+    <bloc x="95" y="13" type="solid" num="10" />
+    <bloc x="96" y="14" type="solid" num="10" />
+    <bloc x="96" y="13" type="solid" num="10" />
+    <bloc x="106" y="1" type="solid" num="10" />
+    <bloc x="106" y="0" type="solid" num="10" />
+    <bloc x="106" y="2" type="solid" num="10" />
+    <bloc x="107" y="1" type="solid" num="10" />
+    <bloc x="107" y="2" type="solid" num="10" />
+    <bloc x="107" y="0" type="solid" num="10" />
+    <bloc x="108" y="2" type="solid" num="10" />
+    <bloc x="108" y="0" type="solid" num="10" />
+    <bloc x="108" y="1" type="solid" num="10" />
+    <bloc x="127" y="0" type="solid" num="10" />
+    <bloc x="127" y="9" type="solid" num="10" />
+    <bloc x="127" y="1" type="solid" num="10" />
+    <bloc x="127" y="2" type="solid" num="10" />
+    <bloc x="128" y="0" type="solid" num="10" />
+    <bloc x="128" y="10" type="solid" num="10" />
+    <bloc x="128" y="1" type="solid" num="10" />
+    <bloc x="128" y="9" type="solid" num="10" />
+    <bloc x="128" y="2" type="solid" num="10" />
+    <bloc x="129" y="1" type="solid" num="10" />
+    <bloc x="129" y="2" type="solid" num="10" />
+    <bloc x="129" y="0" type="solid" num="10" />
+    <bloc x="129" y="10" type="solid" num="10" />
+    <bloc x="129" y="9" type="solid" num="10" />
+    <bloc x="130" y="0" type="solid" num="10" />
+    <bloc x="130" y="1" type="solid" num="10" />
+    <bloc x="130" y="10" type="solid" num="10" />
+    <bloc x="130" y="2" type="solid" num="10" />
+    <bloc x="130" y="9" type="solid" num="10" />
+    <bloc x="131" y="0" type="solid" num="10" />
+    <bloc x="131" y="2" type="solid" num="10" />
+    <bloc x="131" y="1" type="solid" num="10" />
+    <bloc x="131" y="10" type="solid" num="10" />
+    <bloc x="131" y="9" type="solid" num="10" />
+    <bloc x="132" y="9" type="solid" num="10" />
+    <bloc x="132" y="1" type="solid" num="10" />
+    <bloc x="132" y="0" type="solid" num="10" />
+    <bloc x="132" y="2" type="solid" num="10" />
+    <bloc x="132" y="10" type="solid" num="10" />
+    <bloc x="133" y="10" type="solid" num="10" />
+    <bloc x="133" y="0" type="solid" num="10" />
+    <bloc x="133" y="9" type="solid" num="10" />
+    <bloc x="133" y="2" type="solid" num="10" />
+    <bloc x="133" y="1" type="solid" num="10" />
+    <bloc x="134" y="1" type="solid" num="10" />
+    <bloc x="134" y="8" type="solid" num="10" />
+    <bloc x="134" y="6" type="solid" num="10" />
+    <bloc x="134" y="2" type="solid" num="10" />
+    <bloc x="134" y="7" type="solid" num="10" />
+    <bloc x="134" y="3" type="solid" num="10" />
+    <bloc x="134" y="4" type="solid" num="10" />
+    <bloc x="134" y="0" type="solid" num="10" />
+    <bloc x="134" y="10" type="solid" num="10" />
+    <bloc x="134" y="5" type="solid" num="10" />
+    <bloc x="134" y="9" type="solid" num="10" />
+    <bloc x="139" y="2" type="solid" num="10" />
+    <bloc x="139" y="1" type="solid" num="10" />
+    <bloc x="139" y="0" type="solid" num="10" />
+    <bloc x="140" y="1" type="solid" num="10" />
+    <bloc x="140" y="2" type="solid" num="10" />
+    <bloc x="140" y="0" type="solid" num="10" />
+    <bloc x="141" y="1" type="solid" num="10" />
+    <bloc x="141" y="2" type="solid" num="10" />
+    <bloc x="141" y="0" type="solid" num="10" />
+    <bloc x="142" y="0" type="solid" num="10" />
+    <bloc x="142" y="9" type="solid" num="10" />
+    <bloc x="142" y="1" type="solid" num="10" />
+    <bloc x="142" y="10" type="solid" num="10" />
+    <bloc x="142" y="2" type="solid" num="10" />
+    <bloc x="143" y="10" type="solid" num="10" />
+    <bloc x="143" y="0" type="solid" num="10" />
+    <bloc x="143" y="1" type="solid" num="10" />
+    <bloc x="143" y="2" type="solid" num="10" />
+    <bloc x="143" y="9" type="solid" num="10" />
+    <bloc x="144" y="10" type="solid" num="10" />
+    <bloc x="144" y="1" type="solid" num="10" />
+    <bloc x="144" y="0" type="solid" num="10" />
+    <bloc x="144" y="9" type="solid" num="10" />
+    <bloc x="144" y="2" type="solid" num="10" />
+    <bloc x="145" y="10" type="solid" num="10" />
+    <bloc x="145" y="1" type="solid" num="10" />
+    <bloc x="145" y="2" type="solid" num="10" />
+    <bloc x="145" y="9" type="solid" num="10" />
+    <bloc x="145" y="0" type="solid" num="10" />
+    <bloc x="146" y="9" type="solid" num="10" />
+    <bloc x="146" y="1" type="solid" num="10" />
+    <bloc x="146" y="2" type="solid" num="10" />
+    <bloc x="146" y="0" type="solid" num="10" />
+    <bloc x="146" y="10" type="solid" num="10" />
+    <bloc x="147" y="1" type="solid" num="10" />
+    <bloc x="147" y="2" type="solid" num="10" />
+    <bloc x="147" y="0" type="solid" num="10" />
+    <bloc x="147" y="10" type="solid" num="10" />
+    <bloc x="147" y="9" type="solid" num="10" />
+    <bloc x="148" y="0" type="solid" num="10" />
+    <bloc x="148" y="10" type="solid" num="10" />
+    <bloc x="148" y="1" type="solid" num="10" />
+    <bloc x="148" y="2" type="solid" num="10" />
+    <bloc x="148" y="9" type="solid" num="10" />
+    <bloc x="149" y="10" type="solid" num="10" />
+    <bloc x="149" y="1" type="solid" num="10" />
+    <bloc x="149" y="2" type="solid" num="10" />
+    <bloc x="149" y="9" type="solid" num="10" />
+    <bloc x="149" y="0" type="solid" num="10" />
+    <bloc x="150" y="1" type="solid" num="10" />
+    <bloc x="150" y="9" type="solid" num="10" />
+    <bloc x="150" y="0" type="solid" num="10" />
+    <bloc x="150" y="2" type="solid" num="10" />
+    <bloc x="150" y="10" type="solid" num="10" />
+    <bloc x="151" y="0" type="solid" num="10" />
+    <bloc x="151" y="1" type="solid" num="10" />
+    <bloc x="151" y="9" type="solid" num="10" />
+    <bloc x="151" y="2" type="solid" num="10" />
+    <bloc x="151" y="10" type="solid" num="10" />
+    <bloc x="152" y="9" type="solid" num="10" />
+    <bloc x="152" y="1" type="solid" num="10" />
+    <bloc x="152" y="0" type="solid" num="10" />
+    <bloc x="152" y="2" type="solid" num="10" />
+    <bloc x="152" y="10" type="solid" num="10" />
+    <bloc x="153" y="1" type="solid" num="10" />
+    <bloc x="153" y="0" type="solid" num="10" />
+    <bloc x="153" y="9" type="solid" num="10" />
+    <bloc x="153" y="2" type="solid" num="10" />
+    <bloc x="153" y="10" type="solid" num="10" />
+    <bloc x="154" y="1" type="solid" num="10" />
+    <bloc x="154" y="10" type="solid" num="10" />
+    <bloc x="154" y="0" type="solid" num="10" />
+    <bloc x="154" y="9" type="solid" num="10" />
+    <bloc x="154" y="2" type="solid" num="10" />
+    <bloc x="155" y="10" type="solid" num="10" />
+    <bloc x="155" y="9" type="solid" num="10" />
+    <bloc x="155" y="2" type="solid" num="10" />
+    <bloc x="155" y="0" type="solid" num="10" />
+    <bloc x="155" y="1" type="solid" num="10" />
+    <bloc x="156" y="9" type="solid" num="10" />
+    <bloc x="156" y="0" type="solid" num="10" />
+    <bloc x="156" y="1" type="solid" num="10" />
+    <bloc x="156" y="2" type="solid" num="10" />
+    <bloc x="156" y="10" type="solid" num="10" />
+    <bloc x="189" y="9" type="solid" num="10" />
+    <bloc x="189" y="8" type="solid" num="10" />
+    <bloc x="190" y="9" type="solid" num="10" />
+    <bloc x="190" y="8" type="solid" num="10" />
+    <bloc x="200" y="9" type="solid" num="10" />
+    <bloc x="200" y="8" type="solid" num="10" />
+    <bloc x="201" y="8" type="solid" num="10" />
+    <bloc x="201" y="9" type="solid" num="10" />
+    <bloc x="212" y="8" type="solid" num="10" />
+    <bloc x="212" y="9" type="solid" num="10" />
+    <bloc x="213" y="8" type="solid" num="10" />
+    <bloc x="213" y="9" type="solid" num="10" />
+    <bloc x="223" y="0" type="solid" num="10" />
+    <bloc x="224" y="0" type="solid" num="10" />
+    <bloc x="225" y="0" type="solid" num="10" />
+    <bloc x="226" y="0" type="solid" num="10" />
+    <bloc x="227" y="0" type="solid" num="10" />
+    <bloc x="228" y="0" type="solid" num="10" />
+    <bloc x="229" y="0" type="solid" num="10" />
+    <bloc x="230" y="0" type="solid" num="10" />
+    <bloc x="231" y="0" type="solid" num="10" />
+    <bloc x="232" y="0" type="solid" num="10" />
+    <bloc x="233" y="0" type="solid" num="10" />
+    <bloc x="234" y="0" type="solid" num="10" />
+    <bloc x="283" y="4" type="solid" num="10" />
+    <bloc x="283" y="5" type="solid" num="10" />
+    <bloc x="284" y="4" type="solid" num="10" />
+    <bloc x="284" y="5" type="solid" num="10" />
+    <bloc x="285" y="4" type="solid" num="10" />
+    <bloc x="285" y="5" type="solid" num="10" />
+    <bloc x="286" y="4" type="solid" num="10" />
+    <bloc x="286" y="5" type="solid" num="10" />
+    <bloc x="292" y="4" type="solid" num="10" />
+    <bloc x="292" y="5" type="solid" num="10" />
+    <bloc x="292" y="3" type="solid" num="10" />
+    <bloc x="292" y="1" type="solid" num="10" />
+    <bloc x="292" y="8" type="solid" num="10" />
+    <bloc x="292" y="7" type="solid" num="10" />
+    <bloc x="292" y="6" type="solid" num="10" />
+    <bloc x="292" y="2" type="solid" num="10" />
+    <bloc x="292" y="0" type="solid" num="10" />
+    <bloc x="323" y="0" type="solid" num="10" />
+    <bloc x="323" y="3" type="solid" num="10" />
+    <bloc x="323" y="1" type="solid" num="10" />
+    <bloc x="323" y="2" type="solid" num="10" />
+    <bloc x="324" y="0" type="solid" num="10" />
+    <bloc x="324" y="2" type="solid" num="10" />
+    <bloc x="324" y="1" type="solid" num="10" />
+    <bloc x="324" y="3" type="solid" num="10" />
+    <bloc x="325" y="0" type="solid" num="10" />
+    <bloc x="325" y="5" type="solid" num="10" />
+    <bloc x="325" y="3" type="solid" num="10" />
+    <bloc x="325" y="1" type="solid" num="10" />
+    <bloc x="325" y="2" type="solid" num="10" />
+    <bloc x="325" y="4" type="solid" num="10" />
+    <bloc x="326" y="4" type="solid" num="10" />
+    <bloc x="326" y="3" type="solid" num="10" />
+    <bloc x="326" y="1" type="solid" num="10" />
+    <bloc x="326" y="2" type="solid" num="10" />
+    <bloc x="326" y="5" type="solid" num="10" />
+    <bloc x="326" y="0" type="solid" num="10" />
+    <bloc x="327" y="2" type="solid" num="10" />
+    <bloc x="327" y="1" type="solid" num="10" />
+    <bloc x="327" y="4" type="solid" num="10" />
+    <bloc x="327" y="3" type="solid" num="10" />
+    <bloc x="327" y="5" type="solid" num="10" />
+    <bloc x="327" y="0" type="solid" num="10" />
+    <bloc x="328" y="5" type="solid" num="10" />
+    <bloc x="328" y="4" type="solid" num="10" />
+    <bloc x="328" y="3" type="solid" num="10" />
+    <bloc x="328" y="1" type="solid" num="10" />
+    <bloc x="328" y="2" type="solid" num="10" />
+    <bloc x="328" y="0" type="solid" num="10" />
+    <bloc x="329" y="1" type="solid" num="10" />
+    <bloc x="329" y="4" type="solid" num="10" />
+    <bloc x="329" y="3" type="solid" num="10" />
+    <bloc x="329" y="2" type="solid" num="10" />
+    <bloc x="329" y="0" type="solid" num="10" />
+    <bloc x="329" y="5" type="solid" num="10" />
+    <bloc x="330" y="1" type="solid" num="10" />
+    <bloc x="330" y="4" type="solid" num="10" />
+    <bloc x="330" y="5" type="solid" num="10" />
+    <bloc x="330" y="3" type="solid" num="10" />
+    <bloc x="330" y="2" type="solid" num="10" />
+    <bloc x="330" y="0" type="solid" num="10" />
+    <bloc x="331" y="5" type="solid" num="10" />
+    <bloc x="331" y="4" type="solid" num="10" />
+    <bloc x="331" y="1" type="solid" num="10" />
+    <bloc x="331" y="2" type="solid" num="10" />
+    <bloc x="331" y="3" type="solid" num="10" />
+    <bloc x="331" y="0" type="solid" num="10" />
+    <bloc x="332" y="1" type="solid" num="10" />
+    <bloc x="332" y="2" type="solid" num="10" />
+    <bloc x="332" y="0" type="solid" num="10" />
+    <bloc x="332" y="3" type="solid" num="10" />
+    <bloc x="332" y="4" type="solid" num="10" />
+    <bloc x="332" y="5" type="solid" num="10" />
+    <bloc x="333" y="1" type="solid" num="10" />
+    <bloc x="333" y="4" type="solid" num="10" />
+    <bloc x="333" y="3" type="solid" num="10" />
+    <bloc x="333" y="2" type="solid" num="10" />
+    <bloc x="333" y="0" type="solid" num="10" />
+    <bloc x="333" y="5" type="solid" num="10" />
+    <bloc x="334" y="3" type="solid" num="10" />
+    <bloc x="334" y="1" type="solid" num="10" />
+    <bloc x="334" y="0" type="solid" num="10" />
+    <bloc x="334" y="5" type="solid" num="10" />
+    <bloc x="334" y="2" type="solid" num="10" />
+    <bloc x="334" y="4" type="solid" num="10" />
+    <bloc x="335" y="3" type="solid" num="10" />
+    <bloc x="335" y="0" type="solid" num="10" />
+    <bloc x="335" y="5" type="solid" num="10" />
+    <bloc x="335" y="2" type="solid" num="10" />
+    <bloc x="335" y="4" type="solid" num="10" />
+    <bloc x="335" y="1" type="solid" num="10" />
+    <bloc x="336" y="1" type="solid" num="10" />
+    <bloc x="336" y="4" type="solid" num="10" />
+    <bloc x="336" y="3" type="solid" num="10" />
+    <bloc x="336" y="2" type="solid" num="10" />
+    <bloc x="336" y="0" type="solid" num="10" />
+    <bloc x="336" y="5" type="solid" num="10" />
+    <bloc x="337" y="2" type="solid" num="10" />
+    <bloc x="337" y="4" type="solid" num="10" />
+    <bloc x="337" y="1" type="solid" num="10" />
+    <bloc x="337" y="5" type="solid" num="10" />
+    <bloc x="337" y="3" type="solid" num="10" />
+    <bloc x="337" y="0" type="solid" num="10" />
+    <bloc x="338" y="3" type="solid" num="10" />
+    <bloc x="338" y="2" type="solid" num="10" />
+    <bloc x="338" y="1" type="solid" num="10" />
+    <bloc x="338" y="0" type="solid" num="10" />
+    <bloc x="339" y="2" type="solid" num="10" />
+    <bloc x="339" y="1" type="solid" num="10" />
+    <bloc x="339" y="0" type="solid" num="10" />
+    <bloc x="340" y="2" type="solid" num="10" />
+    <bloc x="340" y="1" type="solid" num="10" />
+    <bloc x="340" y="0" type="solid" num="10" />
+    <bloc x="341" y="2" type="solid" num="10" />
+    <bloc x="341" y="1" type="solid" num="10" />
+    <bloc x="341" y="0" type="solid" num="10" />
+    <bloc x="342" y="0" type="solid" num="10" />
+    <bloc x="342" y="1" type="solid" num="10" />
+    <bloc x="343" y="1" type="solid" num="10" />
+    <bloc x="343" y="0" type="solid" num="10" />
+    <bloc x="344" y="0" type="solid" num="10" />
+    <bloc x="345" y="0" type="solid" num="10" />
+    <bloc x="30" y="3" type="solid" num="11" />
+    <bloc x="31" y="3" type="solid" num="11" />
+    <bloc x="32" y="3" type="solid" num="11" />
+    <bloc x="33" y="3" type="solid" num="11" />
+    <bloc x="34" y="3" type="solid" num="11" />
+    <bloc x="35" y="3" type="solid" num="11" />
+    <bloc x="36" y="3" type="solid" num="11" />
+    <bloc x="41" y="6" type="solid" num="11" />
+    <bloc x="42" y="6" type="solid" num="11" />
+    <bloc x="43" y="6" type="solid" num="11" />
+    <bloc x="44" y="6" type="solid" num="11" />
+    <bloc x="45" y="6" type="solid" num="11" />
+    <bloc x="46" y="6" type="solid" num="11" />
+    <bloc x="47" y="6" type="solid" num="11" />
+    <bloc x="51" y="10" type="solid" num="11" />
+    <bloc x="52" y="10" type="solid" num="11" />
+    <bloc x="57" y="3" type="solid" num="11" />
+    <bloc x="58" y="3" type="solid" num="11" />
+    <bloc x="59" y="3" type="solid" num="11" />
+    <bloc x="60" y="3" type="solid" num="11" />
+    <bloc x="61" y="3" type="solid" num="11" />
+    <bloc x="62" y="3" type="solid" num="11" />
+    <bloc x="63" y="3" type="solid" num="11" />
+    <bloc x="64" y="3" type="solid" num="11" />
+    <bloc x="65" y="3" type="solid" num="11" />
+    <bloc x="66" y="3" type="solid" num="11" />
+    <bloc x="67" y="3" type="solid" num="11" />
+    <bloc x="68" y="3" type="solid" num="11" />
+    <bloc x="69" y="3" type="solid" num="11" />
+    <bloc x="70" y="3" type="solid" num="11" />
+    <bloc x="71" y="3" type="solid" num="11" />
+    <bloc x="72" y="3" type="solid" num="11" />
+    <bloc x="72" y="9" type="solid" num="11" />
+    <bloc x="73" y="9" type="solid" num="11" />
+    <bloc x="73" y="3" type="solid" num="11" />
+    <bloc x="74" y="9" type="solid" num="11" />
+    <bloc x="75" y="9" type="solid" num="11" />
+    <bloc x="76" y="9" type="solid" num="11" />
+    <bloc x="77" y="9" type="solid" num="11" />
+    <bloc x="78" y="9" type="solid" num="11" />
+    <bloc x="79" y="9" type="solid" num="11" />
+    <bloc x="80" y="9" type="solid" num="11" />
+    <bloc x="81" y="9" type="solid" num="11" />
+    <bloc x="87" y="5" type="solid" num="11" />
+    <bloc x="88" y="5" type="solid" num="11" />
+    <bloc x="89" y="5" type="solid" num="11" />
+    <bloc x="93" y="5" type="solid" num="11" />
+    <bloc x="94" y="5" type="solid" num="11" />
+    <bloc x="95" y="5" type="solid" num="11" />
+    <bloc x="96" y="5" type="solid" num="11" />
+    <bloc x="101" y="8" type="solid" num="11" />
+    <bloc x="102" y="8" type="solid" num="11" />
+    <bloc x="103" y="8" type="solid" num="11" />
+    <bloc x="104" y="8" type="solid" num="11" />
+    <bloc x="105" y="8" type="solid" num="11" />
+    <bloc x="106" y="8" type="solid" num="11" />
+    <bloc x="107" y="8" type="solid" num="11" />
+    <bloc x="108" y="8" type="solid" num="11" />
+    <bloc x="109" y="8" type="solid" num="11" />
+    <bloc x="110" y="8" type="solid" num="11" />
+    <bloc x="111" y="8" type="solid" num="11" />
+    <bloc x="112" y="8" type="solid" num="11" />
+    <bloc x="113" y="8" type="solid" num="11" />
+    <bloc x="118" y="12" type="solid" num="11" />
+    <bloc x="119" y="12" type="solid" num="11" />
+    <bloc x="119" y="4" type="solid" num="11" />
+    <bloc x="120" y="4" type="solid" num="11" />
+    <bloc x="120" y="12" type="solid" num="11" />
+    <bloc x="121" y="4" type="solid" num="11" />
+    <bloc x="161" y="1" type="solid" num="11" />
+    <bloc x="162" y="1" type="solid" num="11" />
+    <bloc x="163" y="1" type="solid" num="11" />
+    <bloc x="164" y="1" type="solid" num="11" />
+    <bloc x="165" y="4" type="solid" num="11" />
+    <bloc x="165" y="1" type="solid" num="11" />
+    <bloc x="166" y="4" type="solid" num="11" />
+    <bloc x="166" y="1" type="solid" num="11" />
+    <bloc x="167" y="1" type="solid" num="11" />
+    <bloc x="167" y="4" type="solid" num="11" />
+    <bloc x="168" y="1" type="solid" num="11" />
+    <bloc x="169" y="1" type="solid" num="11" />
+    <bloc x="170" y="1" type="solid" num="11" />
+    <bloc x="171" y="1" type="solid" num="11" />
+    <bloc x="172" y="6" type="solid" num="11" />
+    <bloc x="172" y="1" type="solid" num="11" />
+    <bloc x="173" y="1" type="solid" num="11" />
+    <bloc x="173" y="6" type="solid" num="11" />
+    <bloc x="174" y="6" type="solid" num="11" />
+    <bloc x="174" y="1" type="solid" num="11" />
+    <bloc x="175" y="1" type="solid" num="11" />
+    <bloc x="178" y="8" type="solid" num="11" />
+    <bloc x="179" y="8" type="solid" num="11" />
+    <bloc x="179" y="1" type="solid" num="11" />
+    <bloc x="180" y="8" type="solid" num="11" />
+    <bloc x="180" y="1" type="solid" num="11" />
+    <bloc x="181" y="1" type="solid" num="11" />
+    <bloc x="184" y="7" type="solid" num="11" />
+    <bloc x="185" y="7" type="solid" num="11" />
+    <bloc x="186" y="7" type="solid" num="11" />
+    <bloc x="187" y="7" type="solid" num="11" />
+    <bloc x="188" y="7" type="solid" num="11" />
+    <bloc x="191" y="7" type="solid" num="11" />
+    <bloc x="192" y="7" type="solid" num="11" />
+    <bloc x="193" y="7" type="solid" num="11" />
+    <bloc x="194" y="7" type="solid" num="11" />
+    <bloc x="195" y="7" type="solid" num="11" />
+    <bloc x="196" y="7" type="solid" num="11" />
+    <bloc x="197" y="7" type="solid" num="11" />
+    <bloc x="202" y="7" type="solid" num="11" />
+    <bloc x="203" y="7" type="solid" num="11" />
+    <bloc x="204" y="7" type="solid" num="11" />
+    <bloc x="205" y="7" type="solid" num="11" />
+    <bloc x="206" y="7" type="solid" num="11" />
+    <bloc x="207" y="7" type="solid" num="11" />
+    <bloc x="208" y="7" type="solid" num="11" />
+    <bloc x="209" y="7" type="solid" num="11" />
+    <bloc x="214" y="7" type="solid" num="11" />
+    <bloc x="215" y="7" type="solid" num="11" />
+    <bloc x="216" y="7" type="solid" num="11" />
+    <bloc x="217" y="7" type="solid" num="11" />
+    <bloc x="218" y="7" type="solid" num="11" />
+    <bloc x="219" y="7" type="solid" num="11" />
+    <bloc x="227" y="10" type="solid" num="11" />
+    <bloc x="228" y="10" type="solid" num="11" />
+    <bloc x="229" y="10" type="solid" num="11" />
+    <bloc x="230" y="10" type="solid" num="11" />
+    <bloc x="231" y="10" type="solid" num="11" />
+    <bloc x="237" y="7" type="solid" num="11" />
+    <bloc x="238" y="7" type="solid" num="11" />
+    <bloc x="239" y="7" type="solid" num="11" />
+    <bloc x="240" y="7" type="solid" num="11" />
+    <bloc x="241" y="7" type="solid" num="11" />
+    <bloc x="242" y="7" type="solid" num="11" />
+    <bloc x="243" y="7" type="solid" num="11" />
+    <bloc x="244" y="7" type="solid" num="11" />
+    <bloc x="245" y="7" type="solid" num="11" />
+    <bloc x="249" y="9" type="solid" num="11" />
+    <bloc x="250" y="9" type="solid" num="11" />
+    <bloc x="251" y="9" type="solid" num="11" />
+    <bloc x="252" y="10" type="solid" num="11" />
+    <bloc x="253" y="10" type="solid" num="11" />
+    <bloc x="254" y="10" type="solid" num="11" />
+    <bloc x="255" y="11" type="solid" num="11" />
+    <bloc x="256" y="11" type="solid" num="11" />
+    <bloc x="257" y="11" type="solid" num="11" />
+    <bloc x="258" y="12" type="solid" num="11" />
+    <bloc x="259" y="12" type="solid" num="11" />
+    <bloc x="260" y="12" type="solid" num="11" />
+    <bloc x="261" y="12" type="solid" num="11" />
+    <bloc x="262" y="12" type="solid" num="11" />
+    <bloc x="263" y="12" type="solid" num="11" />
+    <bloc x="270" y="9" type="solid" num="11" />
+    <bloc x="271" y="9" type="solid" num="11" />
+    <bloc x="272" y="9" type="solid" num="11" />
+    <bloc x="273" y="9" type="solid" num="11" />
+    <bloc x="274" y="9" type="solid" num="11" />
+    <bloc x="275" y="9" type="solid" num="11" />
+    <bloc x="276" y="9" type="solid" num="11" />
+    <bloc x="277" y="9" type="solid" num="11" />
+    <bloc x="278" y="9" type="solid" num="11" />
+    <bloc x="279" y="9" type="solid" num="11" />
+    <bloc x="280" y="9" type="solid" num="11" />
+    <bloc x="291" y="2" type="solid" num="11" />
+    <bloc x="293" y="9" type="solid" num="11" />
+    <bloc x="294" y="9" type="solid" num="11" />
+    <bloc x="295" y="9" type="solid" num="11" />
+    <bloc x="296" y="9" type="solid" num="11" />
+    <bloc x="298" y="2" type="solid" num="11" />
+    <bloc x="299" y="2" type="solid" num="11" />
+    <bloc x="300" y="2" type="solid" num="11" />
+    <bloc x="301" y="9" type="solid" num="11" />
+    <bloc x="301" y="2" type="solid" num="11" />
+    <bloc x="302" y="2" type="solid" num="11" />
+    <bloc x="302" y="9" type="solid" num="11" />
+    <bloc x="303" y="9" type="solid" num="11" />
+    <bloc x="303" y="2" type="solid" num="11" />
+    <bloc x="304" y="9" type="solid" num="11" />
+    <bloc x="304" y="2" type="solid" num="11" />
+    <bloc x="305" y="9" type="solid" num="11" />
+    <bloc x="305" y="2" type="solid" num="11" />
+    <bloc x="306" y="9" type="solid" num="11" />
+    <bloc x="306" y="2" type="solid" num="11" />
+    <bloc x="307" y="9" type="solid" num="11" />
+    <bloc x="307" y="2" type="solid" num="11" />
+    <bloc x="314" y="2" type="solid" num="11" />
+    <bloc x="315" y="9" type="solid" num="11" />
+    <bloc x="315" y="2" type="solid" num="11" />
+    <bloc x="316" y="9" type="solid" num="11" />
+    <bloc x="316" y="2" type="solid" num="11" />
+    <bloc x="317" y="9" type="solid" num="11" />
+    <bloc x="317" y="2" type="solid" num="11" />
+    <bloc x="318" y="9" type="solid" num="11" />
+    <bloc x="318" y="2" type="solid" num="11" />
+    <bloc x="319" y="9" type="solid" num="11" />
+    <bloc x="319" y="2" type="solid" num="11" />
+    <bloc x="320" y="9" type="solid" num="11" />
+    <bloc x="320" y="2" type="solid" num="11" />
+    <bloc x="321" y="9" type="solid" num="11" />
+    <bloc x="321" y="2" type="solid" num="11" />
+    <bloc x="322" y="2" type="solid" num="11" />
+    <bloc x="59" y="9" type="solid" num="12" />
+    <bloc x="60" y="7" type="solid" num="12" />
+    <bloc x="61" y="7" type="solid" num="12" />
+    <bloc x="62" y="7" type="solid" num="12" />
+    <bloc x="63" y="7" type="solid" num="12" />
+    <bloc x="64" y="7" type="solid" num="12" />
+    <bloc x="65" y="7" type="solid" num="12" />
+    <bloc x="66" y="7" type="solid" num="12" />
+    <bloc x="86" y="13" type="solid" num="12" />
+    <bloc x="87" y="12" type="solid" num="12" />
+    <bloc x="88" y="12" type="solid" num="12" />
+    <bloc x="89" y="12" type="solid" num="12" />
+    <bloc x="90" y="12" type="solid" num="12" />
+    <bloc x="91" y="12" type="solid" num="12" />
+    <bloc x="92" y="12" type="solid" num="12" />
+    <bloc x="93" y="12" type="solid" num="12" />
+    <bloc x="94" y="12" type="solid" num="12" />
+    <bloc x="95" y="12" type="solid" num="12" />
+    <bloc x="96" y="12" type="solid" num="12" />
+    <bloc x="125" y="8" type="solid" num="12" />
+    <bloc x="126" y="8" type="solid" num="12" />
+    <bloc x="127" y="8" type="solid" num="12" />
+    <bloc x="128" y="8" type="solid" num="12" />
+    <bloc x="129" y="8" type="solid" num="12" />
+    <bloc x="130" y="8" type="solid" num="12" />
+    <bloc x="131" y="8" type="solid" num="12" />
+    <bloc x="132" y="8" type="solid" num="12" />
+    <bloc x="133" y="8" type="solid" num="12" />
+    <bloc x="142" y="8" type="solid" num="12" />
+    <bloc x="143" y="8" type="solid" num="12" />
+    <bloc x="144" y="8" type="solid" num="12" />
+    <bloc x="145" y="8" type="solid" num="12" />
+    <bloc x="146" y="8" type="solid" num="12" />
+    <bloc x="147" y="8" type="solid" num="12" />
+    <bloc x="148" y="8" type="solid" num="12" />
+    <bloc x="149" y="8" type="solid" num="12" />
+    <bloc x="150" y="8" type="solid" num="12" />
+    <bloc x="151" y="8" type="solid" num="12" />
+    <bloc x="152" y="8" type="solid" num="12" />
+    <bloc x="153" y="8" type="solid" num="12" />
+    <bloc x="154" y="8" type="solid" num="12" />
+    <bloc x="155" y="8" type="solid" num="12" />
+    <bloc x="156" y="8" type="solid" num="12" />
+    <bloc x="189" y="7" type="solid" num="12" />
+    <bloc x="190" y="7" type="solid" num="12" />
+    <bloc x="200" y="7" type="solid" num="12" />
+    <bloc x="201" y="7" type="solid" num="12" />
+    <bloc x="212" y="7" type="solid" num="12" />
+    <bloc x="213" y="7" type="solid" num="12" />
+    <bloc x="246" y="7" type="solid" num="12" />
+    <bloc x="247" y="7" type="solid" num="12" />
+    <bloc x="248" y="7" type="solid" num="12" />
+    <bloc x="283" y="3" type="solid" num="12" />
+    <bloc x="284" y="3" type="solid" num="12" />
+    <bloc x="285" y="3" type="solid" num="12" />
+    <bloc x="286" y="3" type="solid" num="12" />
+</level>

@@ -1,0 +1,34 @@
+<level id="2" posInitX="1" posInitY="1" size="25" bg="mountains" vieMax="200">
+    <item x="6" y="2" num="3" />
+    <item x="16" y="4" num="3" />
+    <item x="23" y="1" num="6" />
+    <bloc x="0" y="0" type="solid" num="9" />
+    <bloc x="1" y="0" type="solid" num="9" />
+    <bloc x="2" y="0" type="solid" num="9" />
+    <bloc x="3" y="0" type="solid" num="9" />
+    <bloc x="4" y="0" type="solid" num="9" />
+    <bloc x="5" y="0" type="solid" num="9" />
+    <bloc x="6" y="1" type="solid" num="9" />
+    <bloc x="7" y="0" type="solid" num="9" />
+    <bloc x="8" y="0" type="solid" num="9" />
+    <bloc x="9" y="0" type="solid" num="9" />
+    <bloc x="10" y="0" type="solid" num="9" />
+    <bloc x="11" y="0" type="solid" num="9" />
+    <bloc x="12" y="0" type="solid" num="9" />
+    <bloc x="13" y="0" type="solid" num="9" />
+    <bloc x="14" y="0" type="solid" num="9" />
+    <bloc x="15" y="0" type="solid" num="9" />
+    <bloc x="16" y="3" type="solid" num="9" />
+    <bloc x="17" y="0" type="solid" num="9" />
+    <bloc x="18" y="0" type="solid" num="9" />
+    <bloc x="19" y="0" type="solid" num="9" />
+    <bloc x="20" y="0" type="solid" num="9" />
+    <bloc x="21" y="0" type="solid" num="9" />
+    <bloc x="22" y="0" type="solid" num="9" />
+    <bloc x="23" y="0" type="solid" num="9" />
+    <bloc x="24" y="0" type="solid" num="9" />
+    <bloc x="6" y="0" type="solid" num="10" />
+    <bloc x="16" y="0" type="solid" num="10" />
+    <bloc x="16" y="2" type="solid" num="10" />
+    <bloc x="16" y="1" type="solid" num="10" />
+</level>
