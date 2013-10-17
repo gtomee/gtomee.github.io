@@ -1,3 +1,4 @@
-name: Gtomee - Android Game Studio
+name: Gtomee - Indie Game Studio
 markdown: redcarpet
 pygments: true
+permalink: /:year/:month/:day/:title.html

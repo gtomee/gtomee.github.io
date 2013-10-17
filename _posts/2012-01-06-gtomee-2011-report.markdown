@@ -1,0 +1,31 @@
+---
+layout: post
+title: Gtomee 2011 report
+categories:
+- News
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '2'
+  _graphene_slider_img: global
+  _graphene_slider_imgurl: ''
+  _graphene_show_addthis: global
+  _graphene_post_date_display: global
+---
+Happy new year from the Gtomee team !
+
+We hope you will continue to follow us, because we are planning great things for 2012 :)
+
+As we are now in 2012, we are really happy to look back on 2011. Everything happened very fast, so we want to share our story with you !
+
+Gtomee is in fact a group of two students in computer science : Jérémy and Thibaut. Last summer Jérémy worked on Android and Thibaut on Java. With our big interest in game development, we had to do something ! So we decided to try to create a game for Android, we worked together and two weeks later, we had a little prototype. This was the very first version of Crash.
+
+After the creation of the basic gameplay, we still had a long way to release Crash ! We had to give a clean and sexy look and feel, to test it and to create a marketing campaign. The marketing part wasn't easy because we both have a longer experience in computer science than in communication, but we had fun creating our first blog and our first video.
+
+After the release on the Market, which is a very exciting moment, we began to have cool users, like you, who played Crash and gave us some feedback. And updates after updates, new players tried and enjoyed Crash.
+
+The number of Crash users is still increasing, so thank you for encouraging us to continue the story !
+
+Gtomee
