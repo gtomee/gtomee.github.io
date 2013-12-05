@@ -149,3 +149,8 @@ ul.posts li {
 .post pre.terminal code {
   background-color: #333;
 }
+
+/* custom */
+.big {
+  font-size: 30px;
+}
